@@ -1,7 +1,7 @@
 <!-- start of readme.md -->
 
 <p align="center" dir="auto">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&size=40&pause=1000&color=7D56F7&center=true&vCenter=true&width=800&lines=Rimantas+Buivydas;Learning+something+new+everyday;Linux+rice+baller" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&size=35&pause=1000&color=7D56F7&center=true&vCenter=true&width=800&lines=Rimantas+Buivydas;Learning+something+new+everyday;Linux+rice+baller" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -27,29 +27,35 @@
    \ \__\ \__\ \_______\ \_______\ \_______\ \_______\
     \|__|\|__|\|_______|\|_______|\|_______|\|_______|
 ```
+<div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
+  <details open="">
+    <summary><h3>ℹ️ About Me</h3></summary>
+    <br>
 
-```yaml
-def whoami():
-  name = "Rimantas"
-  location = "London"
-  pronouns = "He/him"
+  ```yaml
+  def whoami():
+    name = "Rimantas"
+    location = "London"
+    pronouns = "He/him"
 
-def experience():
-  languages = ["Java", "Python", "MySQL"]
-  tools = ["VMWare", "Splunk",
+  def experience():
+    languages = ["Java", "Python", "MySQL"]
+    tools = ["VMWare", "Splunk",
            "zsh", "bash",
            "Kibana", "nvim"]
-  os = ["Linux", "CachyOS",
+    os = ["Linux", "CachyOS",
         "Windows", "Fedora",
         "Arch Linux", "KDE"]
 
-def interests():
-  print('''Virtual Reality Gaming
+  def interests():
+    print('''Virtual Reality Gaming
          Cycling on Sunny Days
          Unplugged Tech Cabins''')
 
-currently_learning = ["HTML/CSS", "AI/ML"]  
-```
+  currently_learning = ["HTML/CSS", "AI/ML"]  
+  ```
+</details>
+</div>
 
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
@@ -69,10 +75,9 @@ currently_learning = ["HTML/CSS", "AI/ML"]
   </details>
   </div>
 
-<div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
-  <details open="">
-    <summary><h3>📋 Projects</h3></summary>
-    <br>
+<details>
+  <summary><h3>🧑‍💻 Projects</h3></summary>
+  <br>
   
 | Project | Link | Repo | Tools Required |
 | ------- | ---- | ---- | -------------- |
@@ -80,7 +85,6 @@ currently_learning = ["HTML/CSS", "AI/ML"]
 | T-Pot Honeypot | <url here> | <url here> | <code>AWS</code> <code>SSH</code> <code>Debian</code>|
 
 </details>
-</div>
 
 <details>
   <summary><h3>📊 GitHub Stats</h3></summary>
