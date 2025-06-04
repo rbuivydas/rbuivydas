@@ -1,4 +1,4 @@
-<!-- start -->
+<!-- start of readme.md -->
 
 <p align="center" dir="auto">
   <a href="https://www.github.com/gi3lagi3la">
@@ -6,13 +6,12 @@
   </a>
 </p>
 
-
 <p align="center" dir="auto">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&pause=1000&color=6C2FF7&center=true&vCenter=true&width=435&lines=Learning+something+new+everyday;CS+graduate+with+a+passion+for+coding" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rimantas-buivydas-94b834227" rel="nofollow">
+  <a href="https://linkedin.com/in/rimantas-buivydas-94b834227">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -25,7 +24,11 @@
   </a>
 </p>
 
-### Skills </>
+<div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
+  <details open="">
+    <summary>🤓 Skills</summary>
+    <br>
+
 | Category | Skills |
 | -------- | ------ |
 | Languages | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 
@@ -36,19 +39,33 @@
 | Education | ![W3S](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![EDX](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) ![HTB](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white) ![THM](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white) |
 | OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 
-### 📋 Projects:
+  </details>
+  </div>
 
+<div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
+  <details open="">
+    <summary>📋 Projects</summary>
+    <br>
+  
 | Project | Link | Repo | Tools Required |
 | ------- | ---- | ---- | -------------- |
 | RSA Encryption Tool | <url here> | <url here> | <code>Python</code> <code>GitHub</code>|
 | T-Pot Honeypot | <url here> | <url here> | <code>AWS</code> <code>SSH</code> <code>Debian</code>|
 
-### 📊 GitHub Stats:
+</details>
+</div>
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+<br>
+  
 ![](https://github-readme-stats.vercel.app/api?username=gi3lagi3la&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gi3lagi3la&theme=default&hide_border=false)<br/>
+
+</details>
 
 ![Snake animation](https://github.com/gi3lagi3la/gi3lagi3la/blob/main/github-user-contribution.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=gi3lagi3la&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- end -->
+<!-- end of readme.md -->
