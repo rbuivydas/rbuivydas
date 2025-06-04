@@ -52,6 +52,10 @@
          Cycling on Sunny Days
          Unplugged Tech Cabins''')
 
+  def certs():
+    print('''ISC2 CC
+          Google CS Foundation Course''')
+
   currently_learning = ["HTML/CSS", "AI/ML"]  
   ```
 </details>
