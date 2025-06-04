@@ -46,7 +46,8 @@ _/    _/  _/_/_/_/  _/_/_/_/  _/_/_/_/    _/_/
         "Arch Linux", "KDE"]
 
   def education():
-    degree = ["Bachelors in CS"]
+    degree = "BSc"
+    degree_course = "CS"
     a_level = ["Maths", "Physics", "Graphics"]
 
   def interests():
