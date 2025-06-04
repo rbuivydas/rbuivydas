@@ -1,13 +1,7 @@
 <!-- start of readme.md -->
 
 <p align="center" dir="auto">
-  <a href="https://www.github.com/gi3lagi3la">
-    <img src="https://github.com/gi3lagi3la/gi3lagi3la/blob/main/name-type-font.png"/>
-  </a>
-</p>
-
-<p align="center" dir="auto">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&pause=1000&color=6C2FF7&center=true&vCenter=true&width=435&lines=Learning+something+new+everyday;CS+graduate+with+a+passion+for+coding" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&size=40&pause=1000&color=7D56F7&center=true&vCenter=true&width=800&lines=Rimantas+Buivydas;Learning+something+new+everyday;Linux+rice+baller" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -23,6 +17,16 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgi3lagi3la%2Fgi3lagi3la%2F&countColor=%23263759"/>
   </a>
 </p>
+
+```yaml
+ ___  ___  _______   ___       ___       ________     
+|\  \|\  \|\  ___ \ |\  \     |\  \     |\   __  \    
+\ \  \\\  \ \   __/|\ \  \    \ \  \    \ \  \|\  \   
+ \ \   __  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \  
+  \ \  \ \  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ 
+   \ \__\ \__\ \_______\ \_______\ \_______\ \_______\
+    \|__|\|__|\|_______|\|_______|\|_______|\|_______|
+```
 
 ```yaml
 def whoami():
