@@ -24,6 +24,29 @@
   </a>
 </p>
 
+```yaml
+def whoami():
+  name = "Rimantas"
+  location = "London"
+  pronouns = "He/him"
+
+def experience():
+  languages = ["Java", "Python", "MySQL"]
+  tools = ["VMWare", "Splunk",
+           "zsh", "bash",
+           "Kibana", "nvim"]
+  os = ["Linux", "CachyOS",
+        "Windows", "Fedora",
+        "Arch Linux", "KDE"]
+
+def interests():
+  print('''Virtual Reality Gaming
+         Cycling on Sunny Days
+         Unplugged Tech Cabins''')
+
+currently_learning = ["C++", "AI/ML"]  
+```
+
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
     <summary><h3>🤓 Skills</h3></summary>
