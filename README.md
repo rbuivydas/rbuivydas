@@ -1,6 +1,6 @@
 <!-- start -->
+<h1 align="center">Hi there! 👋</h1>
 
-# Hi there! 💫
 * 🌈 I use CachyOS & Fedora BTW!
 * 🧑‍💻 Currently perfecting my skills in Python and playing around with ricing
 * 🌟 Specialise in AI/ML techniques
@@ -9,12 +9,11 @@
   <a href="https://linkedin.com/in/rimantas-buivydas-94b834227">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:rimvntas59@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
+  
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgi3lagi3la%2Fgi3lagi3la%2F">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgi3lagi3la%2Fgi3lagi3la%2F&countColor=%23263759"/>
   </a>
