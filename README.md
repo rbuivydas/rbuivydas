@@ -1,15 +1,15 @@
 <!-- start -->
-<h1 align="center">Hi there! 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=893AD6&width=435&lines=Learning+something+new+everyday;CS+graduate+with+a+passion+for+coding" 
-      alt="Typing  SVG" /></a>
+<p align="center" dir="auto">
+  <a href="https://www.github.com/gi3lagi3la">
+    <img src="https://github.com/gi3lagi3la/gi3lagi3la/blob/main/name-type-font.png"/>
+  </a>
 </p>
 
-* 🌈 I use CachyOS & Fedora BTW!
-* 🧑‍💻 Currently perfecting my skills in Python and playing around with ricing
-* 🌟 Involved in the usage of AI/ML techniques for Information Security
+
+<p align="center" dir="auto">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki+Nerd+Font&pause=1000&color=6C2FF7&center=true&vCenter=true&width=435&lines=Learning+something+new+everyday;CS+graduate+with+a+passion+for+coding" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rimantas-buivydas-94b834227" rel="nofollow">
