@@ -26,7 +26,7 @@
 
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
-    <summary>🤓 Skills</summary>
+    <summary><h3>🤓 Skills</h3></summary>
     <br>
 
 | Category | Skills |
@@ -44,7 +44,7 @@
 
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
-    <summary>📋 Projects</summary>
+    <summary><h3>📋 Projects</h3></summary>
     <br>
   
 | Project | Link | Repo | Tools Required |
@@ -56,7 +56,7 @@
 </div>
 
 <details>
-  <summary>📊 GitHub Stats</summary>
+  <summary><h3>📊 GitHub Stats</h3></summary>
 <br>
   
 ![](https://github-readme-stats.vercel.app/api?username=gi3lagi3la&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
