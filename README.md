@@ -44,7 +44,7 @@ def interests():
          Cycling on Sunny Days
          Unplugged Tech Cabins''')
 
-currently_learning = ["C++", "AI/ML"]  
+currently_learning = ["HTML/CSS", "AI/ML"]  
 ```
 
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
