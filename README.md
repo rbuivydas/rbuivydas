@@ -43,6 +43,7 @@
     tools = ["Oracle", "Neovim",
              "Zsh", "Linux",
              "Azure" ,"AWS"]
+
     description = ["coordinated", "efficient", "logical"]
 
     education = [
