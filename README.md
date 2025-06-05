@@ -38,10 +38,10 @@
   ```python
   def rimantas():
     pronouns = ["he", "him"]
-    code = ["Java", "MySQL",
-            "Python", "HTML", "CSS"]
+    code = ["Java", "MySQL", "Python"]
     tools = ["Oracle", "Neovim",
-             "Zsh", "Linux", "AWS"]
+             "Zsh", "Linux",
+             "Azure" ,"AWS"]
     description = ["coordinated", "efficient", "logical"]
 
     education = [
