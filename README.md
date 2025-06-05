@@ -39,6 +39,7 @@
   def rimantas():
     pronouns = ["he", "him"]
     code = ["Java", "MySQL", "Python"]
+    location = ["London", "U.K."]
     tools = ["Oracle", "Neovim",
              "Zsh", "Linux",
              "Azure" ,"AWS"]
