@@ -93,8 +93,8 @@
   <summary><h3>📊 GitHub Stats</h3></summary>
 <br>
   
-![](https://github-readme-stats.vercel.app/api?username=gi3lagi3la&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gi3lagi3la&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rbuivydas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rbuivydas&theme=dark&hide_border=false)<br/>
 
 </details>
 
