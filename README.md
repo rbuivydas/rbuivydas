@@ -18,56 +18,49 @@
   </a>
 </p>
 
-```yaml                                           
-    _/    _/  _/_/_/_/  _/        _/          _/_/    
-   _/    _/  _/        _/        _/        _/    _/   
-  _/_/_/_/  _/_/_/    _/        _/        _/    _/    
- _/    _/  _/        _/        _/        _/    _/     
-_/    _/  _/_/_/_/  _/_/_/_/  _/_/_/_/    _/_/                                                           
 ```
+      :::    ::: :::::::::: :::        :::        ::::::::
+     :+:    :+: :+:        :+:        :+:       :+:    :+:
+    +:+    +:+ +:+        +:+        +:+       +:+    +:+ 
+   +#++:++#++ +#++:++#   +#+        +#+       +#+    +:+  
+  +#+    +#+ +#+        +#+        +#+       +#+    +#+   
+ #+#    #+# #+#        #+#        #+#       #+#    #+#    
+###    ### ########## ########## ########## ########      
+```
+
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
     <summary><h3>ℹ️ About Me</h3></summary>
-    <br>
+    <br/>
+  <img align="right" width="400" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" />
+  <ul>
 
-  ```yaml
-  def whoami():
-    name = "Rimantas"
-    location = "London"
-    pronouns = "He/him"
+  ```python
+  def rimantas():
+    pronouns = ["he", "him"]
+    code = ["Java", "MySQL",
+            "Python", "HTML", "CSS"]
+    tools = ["Oracle", "Neovim",
+             "Zsh", "Linux", "AWS"]
+    description = ["coordinated", "efficient", "logical"]
 
-  def experience():
-    languages = ["Java", "Python", "MySQL"]
-    tools = ["VMWare", "Splunk",
-           "zsh", "bash",
-           "Kibana", "nvim"]
-    os = ["Linux", "CachyOS",
-        "Windows", "Fedora",
-        "Arch Linux", "KDE"]
+    education = [
+        {"deg": "BSc", "course": "C.S"}
+        {"uni": "uwl.ac.uk"}
+    ]
 
-  def education():
-    degree = "BSc"
-    degree_course = "CS"
-    a_level = ["Maths", "Physics", "Graphics"]
-
-  def interests():
-    print('''Virtual Reality Gaming
-         Cycling on Sunny Days
-         Unplugged Tech Cabins''')
-
-  def certs():
-    print('''ISC2 CC
-          Google CS Foundation Course''')
-
-  currently_learning = ["HTML/CSS", "AI/ML"]  
+    return "Learning HTML/CSS for understanding Web Dev."
   ```
+    
+</ul>
+
 </details>
 </div>
 
 <div class="comment-body markdown-body js-comment-body soft-wrap user-select-contain d-block">
   <details open="">
     <summary><h3>🤓 Skills</h3></summary>
-    <br>
+    <br/>
 
 | Category | Skills |
 | -------- | ------ |
@@ -103,8 +96,8 @@ _/    _/  _/_/_/_/  _/_/_/_/  _/_/_/_/    _/_/
 
 </details>
 
-![Snake animation](https://github.com/gi3lagi3la/gi3lagi3la/blob/main/github-user-contribution.svg)
 ---
+![Snake animation](https://github.com/gi3lagi3la/gi3lagi3la/blob/main/github-user-contribution.svg)
 [![](https://visitcount.itsvg.in/api?id=gi3lagi3la&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- end of readme.md -->
