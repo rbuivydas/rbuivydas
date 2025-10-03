@@ -78,14 +78,14 @@
   </details>
   </div>
 
-<details>
+<details open="">
   <summary><h3>🧑‍💻 Projects</h3></summary>
   <br>
   
-| Project | Link | Repo | Tools Required |
-| ------- | ---- | ---- | -------------- |
-| RSA Encryption Tool | <url here> | <url here> | <code>Python</code> <code>GitHub</code>|
-| T-Pot Honeypot | <url here> | <url here> | <code>AWS</code> <code>SSH</code> <code>Debian</code>|
+| Project | Repository | Tools Required |
+| ------- | ---------- | -------------- |
+| RSA Encryption Tool | <url here> | <code>Python</code> <code>GitHub</code>|
+| T-Pot Honeypot | [Honeypot Project](https://www.github.com/rbuivydas/honey-tpot/) | <code>AWS</code> <code>SSH</code> <code>Debian</code>|
 
 </details>
 
