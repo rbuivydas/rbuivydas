@@ -102,7 +102,7 @@
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/rimvntas.png" alt="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2868314" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/rimvntas.png" alt="rimvntas" />
 
 ![Snake animation](https://github.com/gi3lagi3la/gi3lagi3la/blob/main/github-user-contribution.svg)
 [![](https://visitcount.itsvg.in/api?id=gi3lagi3la&icon=0&color=0)](https://visitcount.itsvg.in)
