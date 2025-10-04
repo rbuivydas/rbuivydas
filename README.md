@@ -85,7 +85,7 @@
 | Project | Repository | Tools Required |
 | ------- | ---------- | -------------- |
 | RSA Encryption Tool | <url here> | <code>Python</code> <code>GitHub</code>|
-| T-Pot Honeypot | [Honeypot Project](https://www.github.com/rbuivydas/honey-tpot/) | <code>AWS</code> <code>SSH</code> <code>Debian</code>|
+| T-Pot Honeypot | [Honeypot Project](https://www.github.com/rbuivydas/honey-tpot/) | <code>AWS</code> <code>SSH</code> <code>Debian</code> <code>PowerShell</code> <code>DMZ</code>|
 
 </details>
 
