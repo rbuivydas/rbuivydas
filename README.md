@@ -86,7 +86,7 @@
 | ------- | ---------- | -------------- |
 | RSA Encryption Tool | [RSA Tool](https://github.com/rbuivydas/rsa-python) | <code>Python</code> <code>GitHub</code>|
 | T-Pot Honeypot | [Honeypot Project](https://www.github.com/rbuivydas/honey-tpot/) | <code>AWS</code> <code>SSH</code> <code>Debian</code> <code>PowerShell</code> <code>DMZ</code>|
-| Secure Network Cisco Packet Tracer | [Cisco PKT](<url here>) | <code>Cisco Packet Tracer</code> <code>Firewall</code> <code>Switches</code> <code>Network Segmentation</code> |
+| Secure Network Cisco Packet Tracer | [Cisco PKT]((https://github.com/rbuivydas/cisco-pkt)) | <code>Cisco Packet Tracer</code> <code>Firewall</code> <code>Switches</code> <code>Network Segmentation</code> |
 | GCD Calculator Euclidean Algorithm | [x86 Assembly](<url here>) | <code>x86</code> <code>Visual Studio 2016</code> |
 
 </details>
